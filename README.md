@@ -33,7 +33,7 @@ This project is a RESTful API for a real-time bidding platform using Node.js, Ex
 
 3. ## Configure database in .env file in folder named bidding-platform 
 
-         PORT=3001
+         PORT=3000
          DB_HOST=localhost
          DB_USER=root
          DB_PASSWORD=password
